@@ -93,5 +93,8 @@ Year over year, billed amounts grew **19.39%** and paid amounts **20.01%**, whil
 
 **Priority:** start with recommendations 2, 3 and 7 (low effort, immediate visibility), then 1 and 5 (high impact, more effort), followed by 4 and 6.
 
+<img width="544" height="336" alt="Dashboard png" src="https://github.com/user-attachments/assets/a55f8e05-561b-4d47-8581-21e57344ce1b" />
+
+
 ⭐ If you found this project useful, please star the repo!
 ---
